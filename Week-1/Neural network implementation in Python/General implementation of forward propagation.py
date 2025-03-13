@@ -39,7 +39,7 @@ def sequential(x, W1, b1, W2, b2, W3, b3, W4, b4, g=lambda x: x):
     a4 = dense(a3, W4, b4, g)
     return a4
 
-# Example Usage (as in the image)
+# Example Usage of the functions
 W = np.array([[1, -3, 5], [2, 4, -6]])
 b = np.array([-1, 1, 2])
 a_in = np.array([-2, 4])
