@@ -51,7 +51,6 @@ The Rectified Linear Unit (ReLU) is a widely-used activation function in neural 
 
 It represent as : 
         R(z) = max(0,z)
-
     ![alt text](image-6.png)    
 
 ## Advantages:
